@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pandas on Michael Kenny</title>
+    <link>https://kennymichael.github.io/Portfolio/tags/pandas/</link>
+    <description>Recent content in Pandas on Michael Kenny</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Apr 2022 11:25:05 -0400</lastBuildDate><atom:link href="https://kennymichael.github.io/Portfolio/tags/pandas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1 - eBay Shill Bidding Data Preparation</title>
+      <link>https://kennymichael.github.io/Portfolio/post/ebay/</link>
+      <pubDate>Thu, 07 Apr 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://kennymichael.github.io/Portfolio/post/ebay/</guid>
+      <description>The goal of this project is to showcase principal component and linear discriminant analysis techniques for dimensionality reduction and classification, while interpreting and visualizing the results.
+Online retailer, eBay is providing an option of bidding to their customers globally. A number of bids on the website are classed as ‘shill bids’, made under false pretenses to drive up the price of an item without the intention of buying. A dataset is available for the bidding of customers.</description>
+    </item>
+    
+    <item>
+      <title>2 - Exploratory Data Analysis and PCA of Scania Truck APS System Dataset</title>
+      <link>https://kennymichael.github.io/Portfolio/post/pca/</link>
+      <pubDate>Wed, 06 Apr 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://kennymichael.github.io/Portfolio/post/pca/</guid>
+      <description>In this project I perform data preparation and analysis of data collected from Scania trucks in everyday usage. The system in focus is the Air Pressure system (APS) which generates pressurized air that are utilized in various functions in a truck, such as braking and gear changes. The dataset’s positive class consists of component failures for a specific component of the APS system. The negative class consists of trucks with failures for components not related to the APS.</description>
+    </item>
+    
+    <item>
+      <title>3 - Statistical Analysis of Olympics Dataset</title>
+      <link>https://kennymichael.github.io/Portfolio/post/olympics/</link>
+      <pubDate>Wed, 06 Apr 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://kennymichael.github.io/Portfolio/post/olympics/</guid>
+      <description>In this project I analyse the historic Olympic games dataset, of all competing athletes from 1896-2016. The dataset was chosen to demonstrate statistical techniques for data analysis, including hypothesis testing, correlation analysis, and linear regression.
+ Link to GitHub Repository</description>
+    </item>
+    
+  </channel>
+</rss>

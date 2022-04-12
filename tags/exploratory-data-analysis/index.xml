@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exploratory Data Analysis on Michael Kenny</title>
+    <link>https://kennymichael.github.io/Portfolio/tags/exploratory-data-analysis/</link>
+    <description>Recent content in Exploratory Data Analysis on Michael Kenny</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Apr 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://kennymichael.github.io/Portfolio/tags/exploratory-data-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2 - Exploratory Data Analysis and PCA of Scania Truck APS System Dataset</title>
+      <link>https://kennymichael.github.io/Portfolio/post/pca/</link>
+      <pubDate>Wed, 06 Apr 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://kennymichael.github.io/Portfolio/post/pca/</guid>
+      <description>In this project I perform data preparation and analysis of data collected from Scania trucks in everyday usage. The system in focus is the Air Pressure system (APS) which generates pressurized air that are utilized in various functions in a truck, such as braking and gear changes. The dataset’s positive class consists of component failures for a specific component of the APS system. The negative class consists of trucks with failures for components not related to the APS.</description>
+    </item>
+    
+  </channel>
+</rss>

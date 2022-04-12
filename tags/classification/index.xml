@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>classification on Michael Kenny</title>
+    <link>https://kennymichael.github.io/Portfolio/tags/classification/</link>
+    <description>Recent content in classification on Michael Kenny</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Apr 2022 11:25:05 -0400</lastBuildDate><atom:link href="https://kennymichael.github.io/Portfolio/tags/classification/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1 - eBay Shill Bidding Data Preparation</title>
+      <link>https://kennymichael.github.io/Portfolio/post/ebay/</link>
+      <pubDate>Thu, 07 Apr 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://kennymichael.github.io/Portfolio/post/ebay/</guid>
+      <description>The goal of this project is to showcase principal component and linear discriminant analysis techniques for dimensionality reduction and classification, while interpreting and visualizing the results.
+Online retailer, eBay is providing an option of bidding to their customers globally. A number of bids on the website are classed as ‘shill bids’, made under false pretenses to drive up the price of an item without the intention of buying. A dataset is available for the bidding of customers.</description>
+    </item>
+    
+  </channel>
+</rss>

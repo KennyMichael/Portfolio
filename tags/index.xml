@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Michael Kenny</title>
+    <link>https://kennymichael.github.io/Portfolio/tags/</link>
+    <description>Recent content in Tags on Michael Kenny</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Apr 2022 11:25:05 -0400</lastBuildDate><atom:link href="https://kennymichael.github.io/Portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>classification</title>
+      <link>https://kennymichael.github.io/Portfolio/tags/classification/</link>
+      <pubDate>Thu, 07 Apr 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://kennymichael.github.io/Portfolio/tags/classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Cleaning</title>
+      <link>https://kennymichael.github.io/Portfolio/tags/data-cleaning/</link>
+      <pubDate>Thu, 07 Apr 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://kennymichael.github.io/Portfolio/tags/data-cleaning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dimensionality Reduction</title>
+      <link>https://kennymichael.github.io/Portfolio/tags/dimensionality-reduction/</link>
+      <pubDate>Thu, 07 Apr 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://kennymichael.github.io/Portfolio/tags/dimensionality-reduction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LDA</title>
+      <link>https://kennymichael.github.io/Portfolio/tags/lda/</link>
+      <pubDate>Thu, 07 Apr 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://kennymichael.github.io/Portfolio/tags/lda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pandas</title>
+      <link>https://kennymichael.github.io/Portfolio/tags/pandas/</link>
+      <pubDate>Thu, 07 Apr 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://kennymichael.github.io/Portfolio/tags/pandas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PCA</title>
+      <link>https://kennymichael.github.io/Portfolio/tags/pca/</link>
+      <pubDate>Thu, 07 Apr 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://kennymichael.github.io/Portfolio/tags/pca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seaborn</title>
+      <link>https://kennymichael.github.io/Portfolio/tags/seaborn/</link>
+      <pubDate>Thu, 07 Apr 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://kennymichael.github.io/Portfolio/tags/seaborn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correlation Analysis</title>
+      <link>https://kennymichael.github.io/Portfolio/tags/correlation-analysis/</link>
+      <pubDate>Wed, 06 Apr 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://kennymichael.github.io/Portfolio/tags/correlation-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploratory Data Analysis</title>
+      <link>https://kennymichael.github.io/Portfolio/tags/exploratory-data-analysis/</link>
+      <pubDate>Wed, 06 Apr 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://kennymichael.github.io/Portfolio/tags/exploratory-data-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hypothesis Testing</title>
+      <link>https://kennymichael.github.io/Portfolio/tags/hypothesis-testing/</link>
+      <pubDate>Wed, 06 Apr 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://kennymichael.github.io/Portfolio/tags/hypothesis-testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inferential Statistics</title>
+      <link>https://kennymichael.github.io/Portfolio/tags/inferential-statistics/</link>
+      <pubDate>Wed, 06 Apr 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://kennymichael.github.io/Portfolio/tags/inferential-statistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linear Regression</title>
+      <link>https://kennymichael.github.io/Portfolio/tags/linear-regression/</link>
+      <pubDate>Wed, 06 Apr 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://kennymichael.github.io/Portfolio/tags/linear-regression/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
